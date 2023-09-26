@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yyn5PkDIAaidGRvm88XOznDpTjENsRrTSmXGz+X5xfWGqrzsJ5Wh9sonLcp/jW4AONX4w1jTaus6BulayF7nQw==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Semester 5\\Asdos\\File Program\\koneksi\\koneksi.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.data.odbc\\7.0.0\\system.data.odbc.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
